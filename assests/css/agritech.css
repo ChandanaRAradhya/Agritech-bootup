@@ -17,17 +17,11 @@ body{
 	margin-top: 80px;
 }
 .main-block .heading h1{
-	
 font-size: 48px;
-	
 font-weight:700;
-	
 line-height:33px;
-	
 color:#ffcc00;
-	
 margin-top: 83px;
-	
 margin-left: 86px;
 }
 
@@ -167,15 +161,6 @@ background-color: #0099cc;
     color: #ffffff;
     font-size: 15px;
 }
-/*.main-container .block .card3{
-  margin-right: 10px;
-}
-.main-container .block .card2{
-	margin-right: 10px;
-}
-.main-container .block{
-	padding-right: 0px;
-}*/
 .help{
 	background-color:#f2f2f2;
 	margin-top: 51px;
@@ -216,41 +201,7 @@ background-color: #0099cc;
    color:#666666;
 
 }
-/*.firstphase .buildphase .firstheader{
-	background-color: #8282ff;
-}
-.firstphase .buildphase .firstheader .h3{
 
-}
-.firstphase .buildphase .firstbody {
-	background-color: #9999ff;
-}
-
-.firstphase .growthphase .secondheader{
-	background-color:#ff8b82;
-}
-.firstphase .growthphase .secondbody {
-	background-color: #ffa199;
-}
-.firstphase .buildphase .firstbody .ul{
-
-}
-.firstphase .growthphase {
-
-}
-.firstphase .growthphase h2{
-
-}
-
-.firstphase .growthphase .secondheader h3{
-
-}
-.firstphase .growthphase .secondbody {
-
-}
-.firstphase .growthphase .secondbody p{
-
-}*/
 .phase{
 	margin:15px !important;
 }
